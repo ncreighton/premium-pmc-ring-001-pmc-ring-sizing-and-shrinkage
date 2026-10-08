@@ -1,0 +1,2 @@
+# premium-pmc-ring-001-pmc-ring-sizing-and-shrinkage
+Stop guessing and wasting precious metal clay on rings that don't fit after firing. This Notion template eliminates shrinkage uncertainty with a systematic, data-driven approach to PMC ring sizing.  The PMC Ring Sizing and Shrinkage Guide turns the most frustrating part of PMC ring making—unpredictable shrinkage—into a predictable, repeatable proce
